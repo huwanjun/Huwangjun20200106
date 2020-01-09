@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLayout">
+
+        <attr name="_leftImage" format="reference"></attr>
+        <attr name="_midTextColor" format="color"/>
+        <attr name="_midTextSize" format="dimension"/>
+        <attr name="_midTextHint" format="string"/>
+        <attr name="_rightTextColor" format="color"/>
+        <attr name="_rightTextSize" format="dimension"/>
+        <attr name="_rightTextHint" format="string"/>
+    </declare-styleable>
+
+</resources>
